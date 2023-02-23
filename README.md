@@ -1,16 +1,8 @@
-# flutter_application_1
+# text_recognition project
 
 A new Flutter project.
+Text recognition refers to the process of automatically recognizing text in images or videos and converting it into machine-readable text. Flutter is a popular open-source mobile app development framework that allows developers to build high-quality, cross-platform mobile applications using a single codebase.
 
-## Getting Started
+Flutter provides a built-in library for text recognition called firebase_ml_vision, which allows developers to integrate text recognition capabilities into their Flutter applications with ease. This library uses Google's Firebase ML Kit, a powerful machine learning platform that provides APIs for text recognition, image labeling, and other machine learning tasks.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
